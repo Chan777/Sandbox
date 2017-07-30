@@ -1,0 +1,14 @@
+C:\Users\Chantal\Desktop\CodeGolf\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Chantal\Desktop\CodeGolf\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Chantal\Desktop\CodeGolf\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Chantal\Desktop\CodeGolf\Calculatrice\Calculatrice\bin\Debug\Calculatrice.xml
+C:\Users\Chantal\Desktop\CodeGolf\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\Chantal\Desktop\CodeGolf\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+C:\Users\Chantal\Desktop\CodeGolf\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.Cache
+C:\Users\Chantal\Desktop\CodeGolf\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Chantal\Desktop\CodeGolf\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+C:\Users\Chantal\Desktop\CodeGolf\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\Chantal\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Chantal\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Chantal\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+C:\Users\Chantal\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
